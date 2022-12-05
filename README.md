@@ -14,4 +14,4 @@
 
 ## Introduction
 
-Training a model for custom object detection (TF 2.x) on Google Colab for automating the detection of whether people are wearing helmet using kaggle custom helmet detection dataset.
+Training a model for custom object detection (TF 2.x) on Google Colab for automating the detection of whether people are wearing helmet or not, using kaggle custom helmet detection dataset.

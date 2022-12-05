@@ -8,7 +8,7 @@
     <br />
     <a href="https://github.com/Sanjay9783/Custom_Helmet_Detection.git"><strong>Explore the Repo »</strong></a>
     <br />
-    <a href="https://github.com/Sanjay9783/Animal_10_Classification/blob/main/model.ipynb"> Model Building</a>
+    <a href="https://github.com/Sanjay9783/Custom_Helmet_Detection/blob/main/model_building.ipynb"> Model Building</a>
   </p>
 </div>
 

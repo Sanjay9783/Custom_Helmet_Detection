@@ -31,7 +31,7 @@ Training a model for custom object detection (TF 2.x) on Google Colab for automa
         name: 'Without Helmet'
     }
    ```
-4.
+4. Create TFRecord (.record): TFRecord is an important data format designed for Tensorflow. The dataset needs to be translated into the TFRecord format before training a custom object detector.
 
 ## Drive prepration
 

@@ -101,3 +101,7 @@ training: python model_main_tf2.py --model_dir=[path of model directory] --pipel
 
 ## Output of custom trained model
 
+![1](https://user-images.githubusercontent.com/109721928/205643680-fb054626-a894-41a7-a8e5-68cc021d286e.JPG)
+![2](https://user-images.githubusercontent.com/109721928/205643707-07770d3f-c8e9-48db-a749-997d33e34776.JPG)
+![3](https://user-images.githubusercontent.com/109721928/205643724-93baf257-28a6-4f5d-8000-345139baadcc.JPG)
+

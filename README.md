@@ -11,3 +11,7 @@
     <a href="https://github.com/Sanjay9783/Animal_10_Classification/blob/main/model.ipynb"> Model Building</a>
   </p>
 </div>
+
+## Introduction
+
+Training a model for custom object detection (TF 2.x) on Google Colab for automating the detection of whether people are wearing helmet using kaggle custom helmet detection dataset.

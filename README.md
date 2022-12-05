@@ -69,6 +69,9 @@ The model zoo contains a large number of pre-trained object identification model
 For this project i have used `SSD MobileNet V2 FPNLite 320x320` pre-trained model for transfer learning on my custom data set.
 
 ## Training
+![Screenshot (10)](https://user-images.githubusercontent.com/109721928/205642497-809a8423-137e-4d13-8de4-6bf24177f8a9.png)
+
+[Link to Google Drive](https://drive.google.com/drive/folders/1u6CF362tbtmPGVn0H2TyzpaF7lsamisy?usp=share_link)
 
 Before training there need to be changes to be made in pipeline.config file.
 
@@ -95,3 +98,6 @@ eval_input_reader {
 ```
 
 training: python model_main_tf2.py --model_dir=[path of model directory] --pipeline_config_path=[path for pipeline_config]
+
+## Output of custom trained model
+
